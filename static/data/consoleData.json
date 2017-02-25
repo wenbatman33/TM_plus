@@ -1,0 +1,193 @@
+{
+  "roomType": "2",
+  "roomNum":"教室999",
+  "playeRecordVideo":false,
+  "consultantVideoSrc":"http://source.vipabc.com/Ext/video/homePage/v3/home-teachers-1.mp4",
+  "memberList":[
+    {
+      "name":"01 Susan Milly Mr",
+      "percentage":"100%",
+      "flagOpen":true,
+      "microphoneOpen":true,
+      "penOpen":true,
+      "ITOpen":true,
+      "headsetVolume": 50
+    },
+    {
+      "name":"02 Susan Milly Mr2",
+      "percentage":"10%",
+      "flagOpen":false,
+      "microphoneOpen":false,
+      "penOpen":false,
+      "ITOpen":false,
+      "headsetVolume": 10
+    },
+    {
+
+      "name":"03 Susan Milly Mr",
+      "percentage":"50%",
+      "flagOpen":true,
+      "microphoneOpen":true,
+      "penOpen":true,
+      "ITOpen":true,
+      "headsetVolume": 60
+    },
+    {
+      "name":"04 Susan Milly Mr",
+      "percentage":"25%",
+      "flagOpen":true,
+      "microphoneOpen":true,
+      "penOpen":true,
+      "ITOpen":true,
+      "headsetVolume":100
+    },
+    {
+      "name":"05 Susan Milly Mr",
+      "percentage":"25%",
+      "flagOpen":true,
+      "microphoneOpen":true,
+      "penOpen":true,
+      "ITOpen":true,
+      "headsetVolume":100
+    },
+    {
+      "name":"06 Susan Milly Mr",
+      "percentage":"25%",
+      "flagOpen":true,
+      "microphoneOpen":true,
+      "penOpen":true,
+      "ITOpen":true,
+      "headsetVolume":30
+    },
+    {
+      "name":"07 Susan Milly Mr",
+      "percentage":"25%",
+      "flagOpen":true,
+      "microphoneOpen":true,
+      "penOpen":true,
+      "ITOpen":true,
+      "headsetVolume":100
+    },
+    {
+      "name":"08 Susan Milly Mr",
+      "percentage":"25%",
+      "flagOpen":true,
+      "microphoneOpen":true,
+      "penOpen":true,
+      "ITOpen":true,
+      "headsetVolume":10
+    },
+    {
+      "name":"09 Susan Milly Mr",
+      "percentage":"25%",
+      "flagOpen":true,
+      "microphoneOpen":true,
+      "penOpen":true,
+      "ITOpen":true,
+      "headsetVolume":100
+    },
+    {
+      "name":"10 Susan Milly Mr",
+      "percentage":"25%",
+      "flagOpen":true,
+      "microphoneOpen":true,
+      "penOpen":true,
+      "ITOpen":true,
+      "headsetVolume":10
+    }
+  ],
+  "StudentVideoListData":[
+    {
+      "name":"01 student_A",
+      "videoSrc":"/static/video/student_1.mp4"
+    },
+    {
+      "name":"02 student_B",
+      "videoSrc":"/static/video/student_2.mp4"
+    },
+    {
+
+      "name":"03 student_C",
+      "videoSrc":"/static/video/student_3.mp4"
+    },
+    {
+
+      "name":"04 student_D",
+      "videoSrc":"/static/video/student_4.mp4"
+    },
+    {
+
+      "name":"05 student_D",
+      "videoSrc":"/static/video/student_5.mp4"
+    },
+    {
+
+      "name":"06 student_D",
+      "videoSrc":"/static/video/student_6.mp4"
+    }
+  ],
+  "chatList":[
+    {
+      "userType":"user",
+      "name":"Josh",
+      "time":"2:29 pm",
+      "comment":"Hi everyone welcome to my class"
+    },
+    {
+      "userType":"self",
+      "name":"Susan",
+      "time":"2:30 pm",
+      "comment":"Hi Josh"
+    },
+    {
+      "userType":"user",
+      "name":"Josh",
+      "time":"2:32 pm",
+      "comment":"001 page"
+    },
+    {
+      "userType":"self",
+      "name":"Susan",
+      "time":"2:33 pm",
+      "comment":"OK OK"
+    },
+    {
+      "userType":"host",
+      "name":"host",
+      "time":"2:35 pm",
+      "comment":"您对顾问说：请让我们多点时间来练习。"
+    }
+  ],
+  "chatListForHelper":[
+    {
+      "userType":"user",
+      "name":"Josh",
+      "time":"2:29 pm",
+      "comment":"Hi everyone welcome to my class"
+    },
+    {
+      "userType":"self",
+      "name":"Susan",
+      "time":"2:30 pm",
+      "comment":"Hi Josh"
+    },
+    {
+      "userType":"user",
+      "name":"Josh",
+      "time":"2:32 pm",
+      "comment":"001 page"
+    },
+    {
+      "userType":"self",
+      "name":"Susan",
+      "time":"2:33 pm",
+      "comment":"OK OK"
+    },
+    {
+      "userType":"host",
+      "name":"host",
+      "time":"2:35 pm",
+      "comment":"您对顾问说：请让我们多点时间来练习。"
+    }
+  ]
+}
